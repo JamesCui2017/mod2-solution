@@ -18,7 +18,7 @@ p{
 	background-color: gray;
 	border: 1px solid black;
 	margin: 5px;
-	height: 150px;
+	height: 160px;
 }
 
 #box4{
@@ -46,20 +46,20 @@ p{
 .ch{
 			color: black;
 			text-align: center;
-			border: 3px solid black;
+			border: 1px solid black;
 		}
 .be{
 			color: white;
 			text-align: center;
-			border: 3px solid black;
+			border: 1px solid black;
 		}
 .su{
 			color: black;
 			text-align: center;
-			border: 3px solid black;
+			border: 1px solid black;
 		}
 
-@media (min-width: 992px) {
+@media (min-width: 991px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
   }
